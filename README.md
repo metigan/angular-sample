@@ -48,7 +48,7 @@ const metiganConfig: MetiganClientOptions = {
   // timeout: 60000,
   // retryCount: 5,
   // retryDelay: 2000,
-  // apiUrl: 'https://api.metigan.com'
+  // apiUrl: 'https://api.metigan.io'
 };
 ```
 
@@ -177,7 +177,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - [Angular Documentation](https://angular.dev)
 - [Metigan Angular SDK](https://www.npmjs.com/package/@metigan/angular)
-- [Metigan Website](https://metigan.com)
+- [Metigan Website](https://metigan.io)
 - [Angular CLI Documentation](https://angular.dev/tools/cli)
 
 ## 🤝 Contributing
@@ -186,7 +186,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📧 Support
 
-For support with Metigan SDK, email support@metigan.com or visit the [Metigan Support](https://metigan.com/support).
+For support with Metigan SDK, open a ticket in the dashboard: [Metigan Support](https://app.metigan.io/support).
 
 ---
 
